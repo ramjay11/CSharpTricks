@@ -1,0 +1,13 @@
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.exe
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.deps.json
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.runtimeconfig.json
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.runtimeconfig.dev.json
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.dll
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\bin\Debug\netcoreapp3.1\FizzBuzzCSharp.pdb
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.csprojAssemblyReference.cache
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.AssemblyInfoInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.AssemblyInfo.cs
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.csproj.CoreCompileInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.dll
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.pdb
+F:\CSharp_Proyectos\CSharpTricks\FizzBuzzCSharp\obj\Debug\netcoreapp3.1\FizzBuzzCSharp.genruntimeconfig.cache

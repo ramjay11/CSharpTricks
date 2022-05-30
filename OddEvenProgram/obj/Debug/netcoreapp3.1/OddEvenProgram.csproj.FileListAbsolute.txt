@@ -1,0 +1,12 @@
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.exe
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.deps.json
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.runtimeconfig.json
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.runtimeconfig.dev.json
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.dll
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\bin\Debug\netcoreapp3.1\OddEvenProgram.pdb
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.AssemblyInfoInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.AssemblyInfo.cs
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.csproj.CoreCompileInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.dll
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.pdb
+F:\CSharp_Proyectos\CSharpTricks\OddEvenProgram\obj\Debug\netcoreapp3.1\OddEvenProgram.genruntimeconfig.cache

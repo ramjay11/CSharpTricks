@@ -1,0 +1,13 @@
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.exe
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.deps.json
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.runtimeconfig.json
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.runtimeconfig.dev.json
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.dll
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\bin\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.pdb
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.csprojAssemblyReference.cache
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.AssemblyInfoInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.AssemblyInfo.cs
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.csproj.CoreCompileInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.dll
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.pdb
+F:\CSharp_Proyectos\CSharpTricks\CSharpFundamentalsNineHours\obj\Debug\netcoreapp3.1\CSharpFundamentalsNineHours.genruntimeconfig.cache

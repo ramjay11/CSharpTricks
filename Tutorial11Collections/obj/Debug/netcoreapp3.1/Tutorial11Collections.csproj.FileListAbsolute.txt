@@ -1,0 +1,12 @@
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.exe
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.deps.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.runtimeconfig.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.runtimeconfig.dev.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.dll
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.pdb
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.AssemblyInfoInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.AssemblyInfo.cs
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.csproj.CoreCompileInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.dll
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.pdb
+F:\CSharp_Proyectos\CSharpTricks\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.genruntimeconfig.cache

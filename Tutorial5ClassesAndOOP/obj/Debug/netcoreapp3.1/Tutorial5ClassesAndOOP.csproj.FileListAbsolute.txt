@@ -1,0 +1,13 @@
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.exe
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.deps.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.runtimeconfig.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.runtimeconfig.dev.json
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.dll
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\bin\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.pdb
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.csprojAssemblyReference.cache
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.AssemblyInfoInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.AssemblyInfo.cs
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.csproj.CoreCompileInputs.cache
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.dll
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.pdb
+F:\CSharp_Proyectos\CSharpTricks\Tutorial5ClassesAndOOP\obj\Debug\netcoreapp3.1\Tutorial5ClassesAndOOP.genruntimeconfig.cache
